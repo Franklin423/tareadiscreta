@@ -13,7 +13,7 @@ delta = {("q0","a"):"q1",
         ("q3","b"):"q2", 
         ("q4","a"):"q1", 
         ("q4","b"):"q3"}
-
+print("tareita")
 q0, F = "q0", {"q4"}
 
 # === Simulación ===
